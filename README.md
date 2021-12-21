@@ -1,2 +1,5 @@
 # whatsinmyfridge
-Project for food recommendation on the basis on pantry ingredients
+Food recommendation engine on the basis on pantry ingredients.
+
+Language: go
+Database: mysql
